@@ -1,5 +1,9 @@
 # Changelog
 
+## [5.13.33] - 2026-10-08
+
+- Up-to-date model prices: haiku_5_5, sonnet_5_5.
+
 ## [5.13.32] - 2026-10-04
 
 - Every session now keeps its own checkpoints, so running several sessions at once no longer clears out the quiet ones. Applies on every platform that saves checkpoints through Token Optimizer's engine.

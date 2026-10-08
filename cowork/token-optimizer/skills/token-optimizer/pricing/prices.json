@@ -59,6 +59,13 @@
    "cache_read": 0.1,
    "output": 5.0
   },
+  "haiku_5_5": {
+   "input": 0.1,
+   "cache_write": 0.125,
+   "cache_write_1h": 0.2,
+   "cache_read": 0.01,
+   "output": 0.5
+  },
   "mythos_5": {
    "input": 10.0,
    "cache_write": 12.5,
@@ -182,7 +189,7 @@
    "input": 2.0,
    "cache_write": 2.5,
    "cache_write_1h": 4.0,
-   "cache_read": 0.2,
+   "cache_read": 0.1,
    "output": 10.0
   },
   "sonnet_legacy": {
@@ -664,5 +671,5 @@
    "cache_read": 0.4
   }
  },
- "generated_at": "2026-09-30T06:50:46Z"
+ "generated_at": "2026-10-08T13:41:26Z"
 }
